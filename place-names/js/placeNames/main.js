@@ -1,4 +1,4 @@
-ffunction main() {
+function main() {
   // Put your code here
 
   const names =
@@ -25,11 +25,6 @@ ffunction main() {
   for (const name of theNames) {
     console.log(name);
   }
-
-}
-
-main();unction main() {
-  // Put your code here
 
 }
 
